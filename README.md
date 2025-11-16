@@ -1,4 +1,4 @@
-# Digital Scholarship 2.0: Beyond Coding to Critical Research Tools
+# Digital Justice for All: Critical Inquiry Tools for Under-Resourced Humanists in the LLM Era
 
 This repository hosts the open-source analytics platform, documentation, and teaching materials developed as part of the **ACLS Digital Justice Development Grant** project at **Texas Southern University**.
 
