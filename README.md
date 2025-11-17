@@ -23,4 +23,4 @@ All text and educational content are shared under [CC BY 4.0](https://creativeco
 
 ## Citation
 If you use or adapt materials from this repository, please cite:
-> Hart, Roger. *Digital Scholarship 2.0: Beyond Coding to Critical Research Tools*. Texas Southern University, 2025. https://github.com/rhartphd/Digital-Scholarship-2.0
+> Hart, Roger. *Digital Justice for All: Critical Inquiry Tools for Under-Resourced Humanists in the LLM Era*. Texas Southern University, 2025. https://github.com/rhartphd/Digital-Justice-for-All
