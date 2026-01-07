@@ -3,11 +3,11 @@
 This repository hosts the open-source analytics platform, documentation, and teaching materials developed as part of the **ACLS Digital Justice Development Grant** project at **Texas Southern University**.
 
 ## Overview
-Digital Scholarship 2.0 advances social justice in digital humanities by enabling scholars—especially at under-resourced institutions—to perform advanced data analysis, visualization, and text mining **without requiring programming expertise**.  
+Digital Justice for All advances social justice in digital humanities by enabling scholars—especially at under-resourced institutions—to perform advanced data analysis, visualization, and text mining **without requiring programming expertise**.  
 The project combines three deliverables:
 1. **An open-source Python analytics platform**
 2. **A freely available, out-of-the-box Critical Research Toolkit**
-3. **Open-access course materials and training modules** for *Digital Scholarship 2.0*.
+3. **Open-access course materials and training modules** for *Digital Justice for All*.
 
 ## Repository Structure
 - `code/` — Python scripts and Jupyter notebooks.
